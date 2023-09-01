@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.44a46288.css",
-    "main.js": "/static/js/main.d193f8d4.js",
+    "main.css": "/static/css/main.e7394417.css",
+    "main.js": "/static/js/main.e0ef26e5.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/home_anime.f372ef86.gif": "/static/media/home_anime.f372ef86.f372ef867ab6dc71a52b.gif",
     "static/media/bathKit_portfolio_project.jpg": "/static/media/bathKit_portfolio_project.3ed003d5bc4445a2d789.jpg",
@@ -18,12 +18,12 @@
     "static/media/expressjs_logo.png": "/static/media/expressjs_logo.e3d4f9e5c8b469e45838.png",
     "static/media/firebase.png": "/static/media/firebase.6b405206252ff65ef584.png",
     "index.html": "/index.html",
-    "main.44a46288.css.map": "/static/css/main.44a46288.css.map",
-    "main.d193f8d4.js.map": "/static/js/main.d193f8d4.js.map",
+    "main.e7394417.css.map": "/static/css/main.e7394417.css.map",
+    "main.e0ef26e5.js.map": "/static/js/main.e0ef26e5.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44a46288.css",
-    "static/js/main.d193f8d4.js"
+    "static/css/main.e7394417.css",
+    "static/js/main.e0ef26e5.js"
   ]
 }
