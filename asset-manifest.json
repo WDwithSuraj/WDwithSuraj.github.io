@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e7394417.css",
-    "main.js": "/static/js/main.4e508bb9.js",
+    "main.js": "/static/js/main.4767d9e8.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/home_anime.f372ef86.gif": "/static/media/home_anime.f372ef86.f372ef867ab6dc71a52b.gif",
     "static/media/bathKit_portfolio_project.jpg": "/static/media/bathKit_portfolio_project.3ed003d5bc4445a2d789.jpg",
@@ -12,19 +12,22 @@
     "static/media/Suraj-Kamat-Resume.pdf": "/static/media/Suraj-Kamat-Resume.09d78eba6af27fc70d21.pdf",
     "static/media/2mg_portfolio_project.jpg": "/static/media/2mg_portfolio_project.b4142f4bff2b6642d716.jpg",
     "static/media/styled_compo.png": "/static/media/styled_compo.91057b06174e24f79475.png",
+    "static/media/chakra-ui.png": "/static/media/chakra-ui.e80cfbd646efef460476.png",
+    "static/media/gitstats.jpg": "/static/media/gitstats.a66b554e360f2becd598.jpg",
     "static/media/Suraj Profile Photo (2).jpg": "/static/media/Suraj Profile Photo (2).8e4c2408a9179495e312.jpg",
     "static/media/postman.png": "/static/media/postman.73784122f34c69527466.png",
+    "static/media/node.png": "/static/media/node.570cedbdc40dcb9e0130.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/expressjs_logo.png": "/static/media/expressjs_logo.e3d4f9e5c8b469e45838.png",
     "static/media/firebase.png": "/static/media/firebase.6b405206252ff65ef584.png",
     "index.html": "/index.html",
     "static/media/ads.txt": "/static/media/ads.e135002d9cb2bba0c381.txt",
     "main.e7394417.css.map": "/static/css/main.e7394417.css.map",
-    "main.4e508bb9.js.map": "/static/js/main.4e508bb9.js.map",
+    "main.4767d9e8.js.map": "/static/js/main.4767d9e8.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7394417.css",
-    "static/js/main.4e508bb9.js"
+    "static/js/main.4767d9e8.js"
   ]
 }
